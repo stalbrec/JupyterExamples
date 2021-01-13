@@ -3,7 +3,7 @@
 
 
 
-[PhysikV Uebung](/PhysikVUebung)
+[PhysikV Uebung](/JupyterExamples/PhysikVUebung)
 
 
 
